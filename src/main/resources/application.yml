@@ -1,0 +1,4 @@
+kafka:
+  bootstrapAddress: localhost:9092
+  topics:
+    product: products
